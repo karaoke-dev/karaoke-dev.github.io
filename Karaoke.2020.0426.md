@@ -1,10 +1,12 @@
-This is the initial post in this progress blog.
+# Blog
 
-What's new should be listed like official lazer's change log.
+- `This post` is the initial post in this progress blog.
 
-Will create `1` new record each one or two monthes, if i don't forget >_>
+- Define how to update latest progress (What's new should be listed like official lazer's change log.)
 
-.
+- Will create `1` new record each one or two monthes, if i don't forget >_>
+
+- Change log will be abailable to view `in lazer`.
 
 ## Editor
 
@@ -16,21 +18,3 @@ Will create `1` new record each one or two monthes, if i don't forget >_>
 ## Testing
 
 - Trying to `clean-up` test cases.
-
-.
-
-Notice for posting new progress(Just write for internal):
-
-## All available title
-
-- Beatmap : Update about `legacy`/`new` beatmap format.
-- Code quality : If has any `code imporove`.
-- Editor : Anything `change`/`feature` about `editor`.
-- Framework : This ruleset has a framework : )
-- Gameplay : Jsut gameplay, of course it's means karaoke ruleset's gameplay.
-- Online : Will use if have.
-- Skinning : Karoake will let user to `make`/`apply` it's own skin `\OWO/`.
-- Testing : Anything change about tests.
-
-Title sould be ordered.
-
