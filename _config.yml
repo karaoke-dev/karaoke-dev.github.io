@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# theme
+remote_theme: andy840119/jekyll-tameowder-theme
+
+# header
+title: Karaoke ruleset develop progress
+description: it's time to write progress in github
+show_downloads: false
+
+# navigation
+facebook_url: https://www.facebook.com/OAQaa
+discord_id: 299006062323826688
