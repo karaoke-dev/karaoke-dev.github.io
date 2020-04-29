@@ -4,6 +4,7 @@ This article is written in internal, just for convenience.
 
 ## All available title
 
+- Achievement: Mark something is importent, or new feature.
 - Beatmap : Update about `legacy`/`new` beatmap format.
 - Blog : Big change about blog
 - Code quality : If has any `code imporove`.
