@@ -12,5 +12,11 @@ This article is written in internal, just for convenience.
 - Framework : This ruleset has a framework : )
 - Gameplay : Jsut gameplay, of course it's means karaoke ruleset's gameplay.
 - Online : Will use if have.
+- Performance : Make things run faster or smoother.
+- Reliability : Less crash.
+- Setting : Any change in ruleset setting area.
 - Skinning : Karoake will let user to `make`/`apply` it's own skin `\OWO/`.
 - Testing : Anything change about tests.
+- Tooling : Some tool for faster develop.
+- UX : Make ui pretty.
+- Youtube : Any video upload in youtube.

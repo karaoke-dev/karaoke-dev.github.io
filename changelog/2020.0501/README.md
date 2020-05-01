@@ -1,19 +1,33 @@
 ## Achievement
 
-- Holiday in taiwan
+- `Holiday in Taiwan`
 
 - \Changelog has been implemented./
 
-This is how change log looks like : 
+    How to let karaoke! ruleset create more faster?
 
-todo : list page
+    (X) Spend more time, or find a partner.
 
-List page
+    (O) Make \Change log/
 
-todo : detail image
+    ![](res/changelog.gif)
 
-Detail page
+## Blog
+
+- Making github page's `template`, change log will be visible in both `game` and `web`.
+
+## Code quality
+
+- Nothing.
 
 ## Editor
 
-- very basic lyric maker editor has been implemented, subscribe [this pull  request](https://github.com/osu-Karaoke/osu-Karaoke/pull/69) to get more info.
+- Very basic [lyric maker editor](../2020.0426/README.md) has been implemented, subscribe [this pull  request](https://github.com/osu-Karaoke/osu-Karaoke/pull/69) to get latest progress.
+
+## Setting
+
+- Add `change log button` to pop-up karaoke! ruleset's own change log.
+
+## Testing
+
+- Create `change log` test case
