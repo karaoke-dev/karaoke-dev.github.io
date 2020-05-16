@@ -1,3 +1,9 @@
+---
+layout: default
+title: 2020.0508
+parent: ChangeLog
+---
+
 ## Achievement
 
 - Now user can select microphone device in ruleset.

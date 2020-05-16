@@ -1,3 +1,9 @@
+---
+layout: default
+title: 2020.0426
+parent: ChangeLog
+---
+
 ## Achievement
 
 - \First post/
