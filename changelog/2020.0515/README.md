@@ -1,6 +1,11 @@
 ## Achievement
 
-- \Web version's changelog has released/
+- Web version's changelog has released
+- \收到怒怒貼了/
+
+## Beatmap
+
+- Add extension file to deal with duplicated logic([#87](https://github.com/osu-Karaoke/osu-Karaoke/pull/87))
 
 ## Blog
 
@@ -12,6 +17,10 @@
 
 - Clean-up some test case's bad code.
 
-# Editor
+## Gameplay
 
-- Time tag visulalzation in `LyricMaker`.
+- Create karaoke ruleset's own HUD overlay([#86](https://github.com/osu-Karaoke/osu-Karaoke/pull/86))
+
+## Skinning
+
+- Before display legacy skin, make sure skin is exist((#84)[https://github.com/osu-Karaoke/osu-Karaoke/pull/84])
