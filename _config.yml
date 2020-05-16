@@ -2,10 +2,14 @@
 remote_theme: andy840119/tameowder-theme
 
 # header
-title: Karaoke ruleset develop progress
-description: it's time to write progress in github
-show_downloads: false
+title: osu!Karaoke
+description: Offical site for karaoke ruleset
+baseurl: "/"
+url: "https://osu-karaoke.github.io"
 
 # navigation
 facebook_url: https://www.facebook.com/OAQaa
 discord_id: 299006062323826688
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2019-2020 andy840119. Distributed by an <a href=\"https://github.com/osu-karaoke/\">GPL V3 license.</a>"
