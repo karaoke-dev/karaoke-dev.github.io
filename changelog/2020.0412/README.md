@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2020.0412
+parent: ChangeLog
+nav_order: -2
+---
+
 ## Code
 
 - Add [code factor](https://www.codefactor.io/dashboard) into github for code quality checking(but it does not working ;_;)

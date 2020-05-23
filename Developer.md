@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Developer
 
 This article is written in internal, just for convenience.

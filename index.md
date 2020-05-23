@@ -1,5 +1,9 @@
-# karaoke develop progress
+---
+layout: default
+title: Hello karaoke!
+nav_order: 0
+---
 
-The latest `progress/idea/bug fixed` will be written in here.
+# Hello karaoke!
 
-see what's [changelog](https://osu-karaoke.github.io/changelog) goes on.
+This website record most of change about karaoke ruleset.
