@@ -2,8 +2,7 @@
 layout: default
 title: ChangeLog
 has_children: true
+nav_order: 1
 ---
 
-# UI Components
-
-List of change log.
+# Change logs
