@@ -7,6 +7,11 @@ description: Offical site for karaoke ruleset
 baseurl: "/"
 url: "https://osu-karaoke.github.io"
 
+# Aux links for the upper right navigation
+aux_links:
+  "osu!karaoke on GitHub":
+    - "//github.com/osu-karaoke/"
+
 # navigation
 discord_id: 299006062323826688
 
