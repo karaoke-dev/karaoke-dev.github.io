@@ -37,6 +37,10 @@ It's still in wip, anything news will be update in here.
 
 ## Links :
 
-Github : [osu-karaoke](https://github.com/osu-karaoke)
+Github : [![GitHub last commit](https://img.shields.io/github/last-commit/osu-karaoke/osu-karaoke)](https://github.com/osu-Karaoke)
 
-Discord(Most time is dead) : [here](https://discord.com/invite/ga2xZXk)
+Discord(Most time is dead) : [![dev chat](https://discordapp.com/api/guilds/299006062323826688/widget.png?style=shield)](https://discord.gg/ga2xZXk)
+
+Change log : [![NuGet](https://img.shields.io/badge/ChangeLog-here-aaaaaa.svg)](https://osu-karaoke.github.io/changelog/README.html)
+
+我婆 : [![NuGet](https://img.shields.io/badge/月子我婆-passed-ff69b4.svg)](https://github.com/andy840119/NHentaiAPI)
