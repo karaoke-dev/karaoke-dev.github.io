@@ -13,8 +13,8 @@ nav_order: -5
 
 ## Code quality
 
-- Clean-up some test case's bad code([#82](https://github.com/osu-Karaoke/osu-Karaoke/pull/82) and [#80](https://github.com/osu-Karaoke/osu-Karaoke/pull/80))
+- Clean-up some test case's bad code in [karaoke](#82@andy840119) and [karaoke](#80@andy840119)
 
 ## Testing
 
-- Most test case has it's own namespace, will be easier to manage or add test case.([#65](https://github.com/osu-Karaoke/osu-Karaoke/pull/65))
+- Most test case has it's own namespace, will be easier to manage or add test case. [karaoke](#65@andy840119)

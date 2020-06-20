@@ -18,7 +18,7 @@ nav_order: -7
 
 ## Code quality
 
-- Add beatmap extension to deal with duplicated logic[(#87)](https://github.com/osu-Karaoke/osu-karaoke/pull/87).
+- Add beatmap extension to deal with duplicated logic. [karaoke](#87@andy840119)
 
 ## Gameplay
 
@@ -26,12 +26,12 @@ nav_order: -7
 
 ## Framework
 
-- Use [NWaves](https://github.com/ar1st0crat/NWaves) package to deal with complex pitch algorithm [(framework#29)](https://github.com/osu-Karaoke/osu-framework-microphone/pull/29)
+- Use [NWaves](https://github.com/ar1st0crat/NWaves) package to deal with complex pitch algorithm. [karaoke-microphone](#29@andy840119)
 
 ## Gameplay
 
-- Hide scoring hud if beatmap is not scorable [(edge#90)](https://github.com/osu-Karaoke/osu-karaoke/pull/90).
+- Hide scoring hud if beatmap is not scorable. [edge](#90@andy840119)
 
 ## Performance
 
-- Improve saiten system to useable [(#96)](https://github.com/osu-Karaoke/osu-karaoke/pull/96)
+- Improve saiten system to useable. [karaoke](#96@andy840119)

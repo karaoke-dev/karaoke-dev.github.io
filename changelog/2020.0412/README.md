@@ -11,9 +11,9 @@ nav_order: -2
 
 ## Skin 
 
- - Implement [note skin component](https://github.com/osu-Karaoke/osu-Karaoke/pull/51)
+ - Implement note skin component. [karaoke](#51@andy840119)
  
- - Implement [judgement line component](https://github.com/osu-Karaoke/osu-Karaoke/pull/54)
+ - Implement judgement line component. [karaoke](#54@andy840119)
 
- - Implement [stage background component](https://github.com/osu-Karaoke/osu-Karaoke/pull/55)
+ - Implement stage background component. [karaoke](#55@andy840119)
 

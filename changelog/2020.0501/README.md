@@ -29,7 +29,7 @@ nav_order: -4
 
 ## Editor
 
-- Very basic [lyric maker editor](../2020.0426/README.md) has been implemented, subscribe [this pull  request](https://github.com/osu-Karaoke/osu-Karaoke/pull/69) to get latest progress.
+- Very basic [lyric maker editor](../2020.0426/README.md) has been implemented, subscribe pull request to get latest progress. [karaoke](#69@andy840119)
 
 ## Setting
 

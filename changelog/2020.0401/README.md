@@ -13,5 +13,5 @@ nav_order: -1
 
 ## Framework
 
-- Update osu!game to 2020.04.02
+- Update osu!game to `2020.04.02`
 

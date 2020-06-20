@@ -21,7 +21,7 @@ nav_order: -3
 
 ## Editor
 
-- Start making [lyric maker](https://github.com/osu-Karaoke/osu-Karaoke/pull/69) into editor.
+- Start making lyric maker into editor. [karaoke](#69@andy840119)
 
     In future, user can select to import `.lrc` created by another tool like [RhythmKaTTE](http://juna-idler.blogspot.com/2016/05/rhythmkatte-version-01.html), or just create complex time tag in editor.
 
