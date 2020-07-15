@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 2020.0620
+layout: changelog
+title: 2020.0704
 parent: ChangeLog
 nav_order: -9
 ---
