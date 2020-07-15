@@ -1,8 +1,7 @@
 ---
 layout: changelog
-title: 2020.0704
+title: '2020.0704'
 parent: ChangeLog
-nav_order: -9
 ---
 
 ## Achievement
