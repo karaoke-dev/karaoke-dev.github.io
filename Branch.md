@@ -2,6 +2,7 @@
 layout: default
 title: Hello karaoke!
 nav_order: 0
+nav_exclude: true
 ---
 
 # Branch

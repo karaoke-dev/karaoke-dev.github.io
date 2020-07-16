@@ -1,8 +1,7 @@
 ---
-layout: default
-title: 2020.0412
+layout: changelog
+title: '2020.0412'
 parent: ChangeLog
-nav_order: -2
 ---
 
 ## Code
