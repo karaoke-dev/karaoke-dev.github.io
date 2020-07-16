@@ -31,7 +31,7 @@ layout: default
             continue;
 
         /*create issue link*/
-        const issue = herf.split('#')[0];
+        const issue = herf.split('@')[0].split('#')[1];
         link.setAttribute('href', url + '/issues/' + issue);
         link.innerText = '(' + text + ' #' + issue + ')';
 
