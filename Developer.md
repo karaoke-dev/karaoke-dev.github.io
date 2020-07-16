@@ -49,7 +49,7 @@ Available tags :
 -  karaoke : Karaoke repo.
 -  launcher : Launcher repo.
 -  sample : Sample repo.
--  github.io : osu-Karaoke.github.io.
+-  github.io : karaoke-dev.github.io.
 -  changelog : pop-up another page.
 
 create another link if needed.

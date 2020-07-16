@@ -6,12 +6,12 @@ nav_order: 0
 
 # Hello karaoke!
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/osu-karaoke/osu-karaoke)](https://github.com/osu-Karaoke)
+[![GitHub last commit](https://img.shields.io/github/last-commit/karaoke-dev/karaoke)](https://github.com/karaoke-dev)
 [![dev chat](https://discordapp.com/api/guilds/299006062323826688/widget.png?style=shield)](https://discord.gg/ga2xZXk)
-[![NuGet](https://img.shields.io/badge/ChangeLog-here-aaaaaa.svg)](https://osu-karaoke.github.io/changelog/README.html)
-[![NuGet](https://img.shields.io/badge/月子我婆-passed-ff69b4.svg)](https://github.com/osu-Karaoke/osu-karaoke)
+[![NuGet](https://img.shields.io/badge/ChangeLog-here-aaaaaa.svg)](https://karaoke-dev.github.io/changelog/README.html)
+[![NuGet](https://img.shields.io/badge/月子我婆-passed-ff69b4.svg)](https://github.com/karaoke-dev/karaoke)
 
-This is the `osu!karaok`'s offical site.
+This is the `karaoke!`'s offical site.
 
 This ruleset is based on `osu!`, and it's a part of un-official osu ruleset(gamemode).
 

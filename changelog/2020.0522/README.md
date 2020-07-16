@@ -11,13 +11,13 @@ parent: ChangeLog
 
 ## Beatmap
 
-- Add extension file to deal with duplicated logic([#87](https://github.com/osu-Karaoke/osu-Karaoke/pull/87))
+- Add extension file to deal with duplicated logic. [karaoke](#87@andy840119)
 
 ## Blog
 
 - Change log website has released, now you don't need to open lazer to see what's change anymore.
     
-  > See website in [osu-karaoke.github.io](https://osu-karaoke.github.io/) 
+  > See website in [karaoke-dev.github.io](https://karaoke-dev.github.io/) 
 
 ## Code quality
 
@@ -25,8 +25,8 @@ parent: ChangeLog
 
 ## Gameplay
 
-- Create karaoke ruleset's own HUD overlay([#86](https://github.com/osu-Karaoke/osu-Karaoke/pull/86))
+- Create karaoke ruleset's own HUD overlay. [karaoke](#86@andy840119)
 
 ## Skinning
 
-- Before display legacy skin, make sure skin is exist([#84](https://github.com/osu-Karaoke/osu-Karaoke/pull/84))
+- Before display legacy skin, make sure skin is exist. [karaoke](#84@andy840119)
