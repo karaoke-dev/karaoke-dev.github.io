@@ -15,6 +15,7 @@ This article is written in internal, just for convenience.
 - Edge : Edge branch.
 - Editor : Anything `change`/`feature` about `editor`.
 - Framework : This ruleset has a framework : )
+- Fix: Fix any exist/found error.
 - Gameplay : Jsut gameplay, of course it's means karaoke ruleset's gameplay.
 - Mods : Anything about mods.
 - Online : Will use if have.
