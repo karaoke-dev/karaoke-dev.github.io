@@ -14,6 +14,6 @@ parent: ChangeLog
 
 ## Fix
 
-- Update karaoke to latest version and fix some crash error.[bloom](#158@LumpBloom7)
+- Update karaoke to latest version and fix some crash error. [karaoke](#158@LumpBloom7)
 
 - My bad, trying to tracking update every two weeks.
