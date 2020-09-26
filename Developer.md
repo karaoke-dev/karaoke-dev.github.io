@@ -20,6 +20,7 @@ This article is written in internal, just for convenience.
 - Mods : Anything about mods.
 - Online : Will use if have.
 - Performance : Make things run faster or smoother.
+- Result : Result screen.
 - Reliability : Less crash.
 - Setting : Any change in ruleset setting area.
 - Skinning : Karoake will let user to `make`/`apply` it's own skin `\OWO/`.
