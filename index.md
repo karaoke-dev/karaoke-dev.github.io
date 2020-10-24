@@ -22,7 +22,7 @@ It is still a work in progress, and new information will be posted here.
 - Basic karaoke gameplay, with a simply animated lyric overlay.
 - Custom songs made for the karaoke ruleset (no conversion of beatmaps yet).
 - A Saiten(scoring) system.
-- Japanese support.
+- Japanese lyrical support.
 - Cross platform, pc and mobile are both supported.
 
 ## What are the exclusive features of this ruleset?
