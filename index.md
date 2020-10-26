@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hello karaoke!
+title: Introduction!
 nav_order: 0
 ---
 
-# Hello karaoke!
+# Introduction!
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/karaoke-dev/karaoke)](https://github.com/karaoke-dev)
 [![dev chat](https://discordapp.com/api/guilds/299006062323826688/widget.png?style=shield)](https://discord.gg/ga2xZXk)
@@ -13,29 +13,27 @@ nav_order: 0
 
 This is the `karaoke!`'s offical site.
 
-This ruleset is based on `osu!`, and it's a part of un-official osu ruleset(gamemode).
+This project is an un-official osu lazer ruleset.
 
-It's still in wip, anything news will be update in here.
+It is still a work in progress, and new information will be posted here.
 
-## What's the feature in this ruleset?
+## What are this rulesets current features?
 
-- Base karaoke feature, display lyric with simple animation.
-- Song selection.
-- Saiten(scoring) system.
-- Support japanese.
-- Cross platform, you can run it in pc and mobile device.
+- Basic karaoke gameplay, with a simply animated lyric overlay.
+- Custom songs made for the karaoke ruleset (no conversion of beatmaps yet).
+- Saiten(scoring) system included.
+- Japanese lyrical support.
+- Cross platform, pc and mobile are both supported.
 
-## What's the feature other karaoke software don't have 
+## What are the exclusive features of this ruleset?
 
 - More complex lyric animation.
-- Will support most language.
-- Karoake beatmap with translate support.
-- Romaji support so you can sing the song all over the world.
+- Will support most languages.
+- Karoake beatmaps with translation support.
+- Romaji support so japanese songs are more accessible.
 - Beautiful UI/UX.
-- Writtin in C#, best programming language.
-- Running in most popular rhythm game platform.
-- Create your own karaoke beatmap.
-- Complex skin system.
-- It's open source, means can add anything if you like, even added by yourself.
-- It's open source, it's always the beginning, always can be stronger.
-- It will be the best karaoke system in the world.
+- Writtin in C#, the best programming language.
+- Already built into the most popular rhythm game platform.
+- Karaoke beatmap editor built in.
+- Complex skinning system.
+- Open sourced.
