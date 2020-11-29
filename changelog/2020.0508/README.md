@@ -12,7 +12,9 @@ parent: ChangeLog
 
 ## Code quality
 
-- Clean-up some test case's bad code in [karaoke](#82@andy840119) and [karaoke](#80@andy840119)
+- Clean-up some test case's bad code.
+  - [karaoke](#82@andy840119)
+  - [karaoke](#80@andy840119)
 
 ## Testing
 

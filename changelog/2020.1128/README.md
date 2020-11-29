@@ -27,7 +27,7 @@ parent: ChangeLog
 
 - Implement time tag tooltip. [karaoke](#254@andy840119)
 - Create circle singer avatar, [karaoke](#255@andy840119)
-- Base definition `LyricEditor`'s edit mode. [karaoke](#260)
+- Base definition `LyricEditor`'s edit mode. [karaoke](#260@andy840119)
 
 ## Tooling
 
