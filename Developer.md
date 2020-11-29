@@ -36,7 +36,7 @@ Sometime lazy to type all the url, so use special tag to mark.
 E.g : 
 
 ```
-[karaoke](#32@andy840119)
+- Implement some feature. [karaoke](#32@andy840119)
 ```
 
 Means :
