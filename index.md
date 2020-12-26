@@ -13,7 +13,7 @@ nav_order: 0
 
 This is the `karaoke!`'s offical site.
 
-This project is an un-official osu lazer ruleset.
+The source code of the karaoke! ruleset, running on osu!lazer.
 
 It is still a work in progress, and new information will be posted here.
 

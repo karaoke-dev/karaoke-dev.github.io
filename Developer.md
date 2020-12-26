@@ -9,6 +9,7 @@ This article is written in internal, just for convenience.
 ## All available title
 
 - Achievement: Mark something is importent, or new feature.
+- Auto-Generator: Use code instead of human power.
 - Beatmap : Update about `legacy`/`new` beatmap format.
 - Blog : Big change about blog
 - Code quality : If has any `code imporove`.
@@ -27,6 +28,7 @@ This article is written in internal, just for convenience.
 - Testing : Anything change about tests.
 - Tooling : Some tool for faster develop.
 - UX : Make ui pretty.
+- Utility : Some data-process helper.
 - Youtube : Any video upload in youtube.
 
 ## Example link
