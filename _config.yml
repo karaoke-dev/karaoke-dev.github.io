@@ -2,14 +2,14 @@
 remote_theme: andy840119/tameowder-theme
 
 # header
-title: karaoke development
-description: Offical site for sharing anything about karaoke ruleset.
+title: karaoke --dev
+description: Offical site for sharing anything about karaoke development.
 baseurl: "/"
 url: "https://karaoke-dev.github.io"
 
 # Aux links for the upper right navigation
 aux_links:
-  "osu!karaoke on GitHub":
+  "karaoke --dev on GitHub":
     - "//github.com/karaoke-dev/"
 
 # navigation
