@@ -5,3 +5,8 @@ title = "karaoke --dev"
 theme = "karaoke-dev"
 
 rssLimit = 0
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
