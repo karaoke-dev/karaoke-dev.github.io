@@ -1,0 +1,12 @@
+[en]
+  title = "karaoke --dev"
+  languageName = "English"
+  weight = 1
+  contentdir = "content"
+
+[zh-tw]
+  title = "karaoke --dev"
+  languageName = "中文"
+  weight = 2
+  contentdir = "content"
+  

@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "changelog"
+  name = "日誌"
+  url = "changelog"
+  weight = 1
+
+[[main]]
+  identifier = "how-to-install"
+  name = "如何安裝"
+  url = "how-to-install"
+  weight = 2
+
+[[main]]
+  identifier = "introduce"
+  name = "介紹"
+  url = "introduce"
+  weight = 3

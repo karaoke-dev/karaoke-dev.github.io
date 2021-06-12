@@ -1,0 +1,12 @@
+baseURL = "https://blog.karaoke.dev/"
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+title = "karaoke --dev"
+theme = "karaoke-dev"
+
+rssLimit = 0
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

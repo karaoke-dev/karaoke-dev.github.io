@@ -1,0 +1,3 @@
+[submodule "themes/karaoke-dev"]
+	path = themes/karaoke-dev
+	url = https://github.com/karaoke-dev/hugo-theme-blog.git

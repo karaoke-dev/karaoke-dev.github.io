@@ -1,0 +1,46 @@
+<script> 
+    function insertAfter(referenceNode, newNode) {
+        referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+    }
+    
+    var links=document.getElementsByTagName('a'), hrefs = [];
+    for (var i = 0; i<links.length; i++) {   
+        const link = links[i];
+        const text = link.innerText;
+        const herf = link.getAttribute('href');
+
+        if(!herf)
+            continue;
+
+        if(herf.startsWith('http'))
+            continue;
+
+        const urlDict = {
+            'karaoke': 'https://github.com/karaoke-dev/karaoke',
+            'edge': 'https://github.com/karaoke-dev/karaoke',
+            'github.io': 'https://github.com/karaoke-dev/karaoke-dev.github.io',
+            'launcher': 'https://github.com/karaoke-dev/launcher',
+            'sample': 'https://github.com/karaoke-dev/sample-beatmap'
+        };
+
+        const url = urlDict[text];
+        if(!url)
+            continue;
+
+        /*create issue link*/
+        const issue = herf.split('@')[0].split('#')[1];
+        link.setAttribute('href', url + '/issues/' + issue);
+        link.innerText = '(' + text + ' #' + issue + ')';
+
+        /*create author link*/
+        const author = herf.split('@')[1];
+        if(!author)
+            continue;
+
+        var authorLink = document.createElement("a");
+        authorLink.innerHTML = 'by: ' + author;
+        authorLink.setAttribute('href', 'https://github.com/' + author);
+        authorLink.setAttribute("style", "font-size: 15px; margin-left: 10px;");
+        insertAfter(link, authorLink);
+    }
+</script>
