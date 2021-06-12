@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "changelog"
+  name = "Changelog"
+  url = "changelog"
+  weight = 1
+
+[[main]]
+  identifier = "how-to-install"
+  name = "How to install"
+  url = "how-to-install"
+  weight = 2
+
+[[main]]
+  identifier = "introduce"
+  name = "Introduce"
+  url = "introduce"
+  weight = 3
