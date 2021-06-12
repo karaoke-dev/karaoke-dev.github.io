@@ -1,0 +1,27 @@
+# see https://zzo-docs.vercel.app/zzo/configuration/configfiles/ for more info.
+
+themeOptions = ["dark", "light"]
+
+# body
+summaryShape = "classic" # card, classic, compact
+enableGoToTop = true
+
+# sidebar
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = true
+enableSidebarCategories = true
+enableHomeSidebarTitles = true
+enableListSidebarTitles = true
+enableToc = true # show navigation bar in article.
+hideToc = false
+tocFolding = true
+tocPosition = "inner" # inner, outer
+enableTocSwitch = true
+itemsPerCategory = 10
+sidebarPosition = "right"
+tocLevels = ["h2", "h3", "h4"]
+
+# footer
+# enableLangChange = true # will wait until has chinese content
+enableThemeChange = true
