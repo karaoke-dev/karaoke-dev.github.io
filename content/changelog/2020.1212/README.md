@@ -1,7 +1,6 @@
 ---
-layout: changelog
 title: '2020.1212'
-parent: ChangeLog
+date: 2020-12-12
 ---
 
 ## Auto-Generator

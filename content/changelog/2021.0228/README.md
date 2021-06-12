@@ -1,7 +1,6 @@
 ---
-layout: changelog
 title: '2021.0228'
-parent: ChangeLog
+date: 2021-02-28
 ---
 
 ## Code quality

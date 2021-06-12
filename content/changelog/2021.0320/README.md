@@ -1,7 +1,6 @@
 ---
-layout: changelog
 title: '2021.0320'
-parent: ChangeLog
+date: 2021-03-20
 ---
 
 ## Achievement

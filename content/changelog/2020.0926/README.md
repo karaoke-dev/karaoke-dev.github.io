@@ -1,7 +1,6 @@
 ---
-layout: changelog
 title: '2020.0926'
-parent: ChangeLog
+date: 2020-09-26
 ---
 
 ## Beatmap

@@ -1,7 +1,6 @@
 ---
-layout: changelog
 title: '2021.0529'
-parent: ChangeLog
+date: 2021-05-29
 ---
 
 ## Beatmap
