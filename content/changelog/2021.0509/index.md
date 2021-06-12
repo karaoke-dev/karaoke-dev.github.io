@@ -1,7 +1,6 @@
 ---
 title: '2021.0509'
 date: 2021-05-09
-translated: false
 ---
 
 ## Achievement
