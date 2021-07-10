@@ -18,6 +18,7 @@ This article is written in internal, just for convenience.
 - Framework : This ruleset has a framework : )
 - Fix: Fix any exist/found error.
 - Gameplay : Jsut gameplay, of course it's means karaoke ruleset's gameplay.
+- Import : About import beatmap step.
 - Mods : Anything about mods.
 - Online : Will use if have.
 - Performance : Make things run faster or smoother.
