@@ -5,7 +5,7 @@ date: 2021-07-26
 
 ## Achievement
 - \more then 69 stars/
-- No. 777 PR has beem created.
+- No. 777 PR has been created.
 
 ## Code quality
 - Regular clean-up code. [karaoke](#755#760#776@andy840119)
