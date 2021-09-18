@@ -4,7 +4,7 @@ date: 2021-09-18
 ---
 
 ## Achievement
-- Nope i guess.
+- Fix lots of api changes i guess.
 
 ## Code quality
 - Clean up code. [karaoke](#822@andy840119)
@@ -12,6 +12,7 @@ date: 2021-09-18
 - Move `karaokeIcon.cs` file into sprite namespace. [karaoke](#827@andy840119)
 - Upgrade syntax to `C# 9`. [karaoke](#829@andy840119)
 - Clean up code again to meet the coding style of `C# 9`. [karaoke](#830@andy840119)
+- Fix grammar errors and convert the dialog into osu! style. [karaoke](#847@SiderealArt)
 
 ## Editor
 - Fix the case that some of editor component is not visible in test case. [karaoke](#837#838@andy840119)
