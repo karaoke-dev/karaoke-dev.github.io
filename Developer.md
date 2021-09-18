@@ -51,10 +51,12 @@ repo/branch name |  issue/pull request.   github user name
 
 Available tags : 
 
--  karaoke : Karaoke repo.
--  launcher : Launcher repo.
--  sample : Sample repo.
--  github.io : karaoke-dev.github.io.
--  changelog : pop-up another page.
+- karaoke : Karaoke repo.
+- launcher : Launcher repo.
+- sample : Sample repo.
+- github.io : karaoke-dev.github.io.
+- changelog : pop-up another page.
+- microphone-package : microphone package for osu-framework.
+- font-package: font package for osu-framework.
 
 create another link if needed.

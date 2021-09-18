@@ -24,7 +24,7 @@ date: 2020-06-06
 
 ## Framework
 
-- Use [NWaves](https://github.com/ar1st0crat/NWaves) package to deal with complex pitch algorithm. [karaoke-microphone](#29@andy840119)
+- Use [NWaves](https://github.com/ar1st0crat/NWaves) package to deal with complex pitch algorithm. [microphone-package](#29@andy840119)
 
 ## Gameplay
 
