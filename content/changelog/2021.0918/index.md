@@ -33,10 +33,10 @@ date: 2021-09-18
 - Should show `default` instead of `no microphone device` if use default microphone device in config page. [karaoke](#828#835@andy840119)
 
 ## Framework
-- Add `github action` to run `CI` if create new PR. [karaoke-microphone](#45@andy840119)
-- Add `github action` to run `CD` for create package if create new tag. [karaoke-microphone](#49@andy840119)
-- Fix microphone crash issue after upgrade to latest o!f. [karaoke-microphone](#50@andy840119)
-- Refactor code in microphone package. [karaoke-microphone](#52@andy840119)
-- Should use name `decibel` instead of `loudness`. [karaoke-microphone](#55@andy840119)
-- Should set pitch as zero is decibel is toooo small. [karaoke-microphone](#56@andy840119)
+- Add `github action` to run `CI` if create new PR. [microphone-package](#45@andy840119)
+- Add `github action` to run `CD` for create package if create new tag. [microphone-package](#49@andy840119)
+- Fix microphone crash issue after upgrade to latest o!f. [microphone-package](#50@andy840119)
+- Refactor code in microphone package. [microphone-package](#52@andy840119)
+- Should use name `decibel` instead of `loudness`. [microphone-package](#55@andy840119)
+- Should set pitch as zero is decibel is toooo small. [microphone-package](#56@andy840119)
 - Fix api change in `font package` while updating the pacakge. [font-package](#37@andy840119)
