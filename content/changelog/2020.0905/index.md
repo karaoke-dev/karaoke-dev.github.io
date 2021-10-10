@@ -4,15 +4,11 @@ date: 2020-09-05
 ---
 
 ## Achievement
-
-- Make lazer's setting cannot be opened, already [fixed](https://github.com/ppy/osu/issues/10053) by official.
+- Make lazer's setting cannot be opened, already [fixed](https://github.com/ppy/osu/issues/10053) by the official.
 
 ## Blog
-
-- Update blog's change log even have no time.
+- Update blog's changelog even has no time.
 
 ## Fix
-
-- Update karaoke to latest version and fix some crash error. [karaoke](#158@LumpBloom7)
-
-- My bad, trying to tracking update every two weeks.
+- Update karaoke to the latest version and fix some crash errors. [karaoke](#158@LumpBloom7)
+- My bad, trying to track updates every two weeks.

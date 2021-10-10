@@ -5,9 +5,9 @@ date: 2021-10-10
 
 ## Achievement
 ![](res/2021-10-09-11-25-25.png)
-- Karaoke text how have beautiful effect, big thanks to [@Evast](https://github.com/EVAST9919)
+- Karaoke text having outline effects now, big thanks to [@Evast](https://github.com/EVAST9919)
 - Live alone now so 尻尻放題
-- More than 87 stars, 87 is a lucky number in out country.
+- More than 87 stars, 87 is a lucky number in our country.
 
 ## Framework
 - Implement lyric text shader effect. [font-package](#41@andy840119)
@@ -26,4 +26,4 @@ date: 2021-10-10
 - Fix the case that text will disappear if drag ruby position. [karaoke](#850#851@andy840119)
 
 ## Setting
-- Able to adjust ruby romaji margin in config page. [karaoke](#852@andy840119)
+- Able to adjust ruby romaji margin in the config page. [karaoke](#852@andy840119)

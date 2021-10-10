@@ -7,9 +7,9 @@ date: 2021-05-09
 - \56 stars in repo/
 
 ## Code quality
-- Remove singer property in note object. This property can get from parent lyric directly. [karaoke](#574@andy840119)
-- Rename `EditRuleset` and `EditPlayfield` to use full `Editor` keyword, follow how official do. [karaoke](#579#583@andy840119)
-- Separate `note playfield` for letting code more re-usable. [karaoke](#584@andy840119)
+- Remove singer property in note object. This property can get from parent lyrics directly. [karaoke](#574@andy840119)
+- Rename `EditRuleset` and `EditPlayfield` to use the full `Editor` keyword, follow how official do. [karaoke](#579#583@andy840119)
+- Separate `note playfield` for letting code be more re-usable. [karaoke](#584@andy840119)
 - Clean up code. [karaoke](#586@andy840119)
 
 ## Editor
@@ -22,11 +22,11 @@ date: 2021-05-09
 
 ## Fix
 - Fix switch back to view note will cause errors in the lyric editor. [karaoke](#576@andy840119)
-- Fix not display lyric in singer editor. [karaoke](#602@andy840119)
+- Fix not display lyrics in the singer editor. [karaoke](#602@andy840119)
 
 ## Gameplay
 - Make `lyric` / `note` playfield transparent can be adjusted. [karaoke](#561#570@andy840119)
-- Instead of let user to adjust main text size, should be better to fix main font size, then adjust overall lyric scale instead. [karaoke](#559#571@andy840119)
+- Adjust overally lyric scale instead of adjust main lyric size(might cause size messy issue). [karaoke](#559#571@andy840119)
 
 ## Skinning
 - Sync skin component. [karaoke](#587@andy840119)

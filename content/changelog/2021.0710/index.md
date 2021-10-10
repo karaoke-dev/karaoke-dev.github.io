@@ -14,11 +14,11 @@ date: 2021-07-10
 - Improve `CheckInvalidTranslateLyrics` to check invalid translate. [karaoke](#748@andy840119)
 
 ## Code quality
-- Use real color picker to replace fake one. [karaoke](#705@andy840119)
+- Use the real color picker to replace the fake one. [karaoke](#705@andy840119)
 - Clean up code. [karaoke](#721@andy840119)
 - Refactor lyric maker caret. [karaoke](#725#726@andy840119)
-- Move `state` into invidivual class in lyric editor, means not place all value in main class. [karaoke](#732#736#737@andy840119)
-- Implement base auto generate section. [karaoke](#741@andy840119)
+- Move `state` into individual class in the lyric editor, which means not place all value in the main class. [karaoke](#732#736#737@andy840119)
+- Implement the base auto-generate section. [karaoke](#741@andy840119)
 
 ## Editor
 - Implement note generator. [karaoke](#702@andy840119)
@@ -44,4 +44,4 @@ date: 2021-07-10
   ![](res/2021-07-10-15-40-30.png)
 
 ## Import
-- Should be able `roll-back step` if click the invalid text in lyric editor in import screen. [karaoke](#746@andy840119)
+- Should be able `roll-back step` if click the invalid text in the lyric editor in the import screen. [karaoke](#746@andy840119)
