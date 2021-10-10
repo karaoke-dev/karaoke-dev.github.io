@@ -12,16 +12,16 @@ date: 2021-04-17
 - Implement translate AI mod check. [karaoke](#566@andy840119)
 
 ## Gameplay
-- Fix gameplay cannot go to result screen. [karaoke](#517@andy840119)
+- Fix gameplay cannot go to the result screen. [karaoke](#517@andy840119)
 
 ## Setting
 - Implement karaoke config screen. [karaoke](#534@andy840119)
 - Should have color theme in each section. [karaoke](#537@andy840119)
-- Fix layout looking in karaoke config sceen. [karaoke](#538@andy840119)
+- Fix layout looking in karaoke config screen. [karaoke](#538@andy840119)
 - Create language setting control in config. [karaoke](#539@andy840119)
 - Implement font selection in karaoke config. [karaoke](#540@andy840119)
-- Implement base preview component. [karaoke](#543@andy840119)
-- Should not let volume able to adjust while scrolling. [karaoke](#541@andy840119)
+- Implement the base preview component. [karaoke](#543@andy840119)
+- Should not let volume able adjust while scrolling. [karaoke](#541@andy840119)
 - Implement change size by just a click in config. [karaoke](#548@andy840119)
 - Enable to set max and min available font size in bindable. [karaoke](#551@andy840119)
 

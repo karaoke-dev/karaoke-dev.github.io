@@ -4,8 +4,8 @@ date: 2021-05-29
 ---
 
 ## Beatmap
-- Add bindable start index and bindable end index into ruby / romaji tag object. [karaoke](#608#609@andy840119)
-- Fix hover cause overlay hidden in lyric editor. [karaoke](#652@andy840119)
+- Add bindable start index and bindable end index into ruby/romaji tag object. [karaoke](#608#609@andy840119)
+- Fix hover cause overlay hidden in the lyric editor. [karaoke](#652@andy840119)
 
 ## Code quality
 - Clean-up code and remove unused class. [karaoke](#617@andy840119)

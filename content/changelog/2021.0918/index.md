@@ -4,7 +4,7 @@ date: 2021-09-18
 ---
 
 ## Achievement
-- Fix lots of api changes i guess.
+- Fix lots of API changes I guess.
 
 ## Code quality
 - Clean up code. [karaoke](#822@andy840119)
@@ -15,13 +15,13 @@ date: 2021-09-18
 - Fix grammar errors and convert the dialog into osu! style. [karaoke](#847@SiderealArt)
 
 ## Editor
-- Fix the case that some of editor component is not visible in test case. [karaoke](#837#838@andy840119)
-- Implement base karaoke setup section. [karaoke](#841@andy840119)
-- Add singer section in singer in setup screen. [karaoke](#842@andy840119)
+- Fix the case that some of the editor components are not visible in the test case. [karaoke](#837#838@andy840119)
+- Implement the base karaoke setup section. [karaoke](#841@andy840119)
+- Add singer section in singer in the setup screen. [karaoke](#842@andy840119)
 
 ## Fix
-- Fix singer description now showing in tooltip. [karaoke](#843@andy840119)
-- Update package and fix api change error. [karaoke](#844@andy840119)
+- Fix singer description now showing in the tooltip. [karaoke](#843@andy840119)
+- Update package and fix API change error. [karaoke](#844@andy840119)
 - Fix cannot show `changelog` and `dialogs` after upgrade to the latest package. [karaoke](#845#846@andy840119)
 
 ## Reliability
@@ -31,7 +31,7 @@ date: 2021-09-18
 ## Setting
 - Fix cannot enter `config page`. [karaoke](#814@andy840119)
 - Fix the case user cannot press exit button to exit `config page`. [karaoke](#825@andy840119)
-- Should show `default` instead of `no microphone device` if use default microphone device in config page. [karaoke](#828#835@andy840119)
+- Should show `default` instead of `no microphone device` if use the default microphone device in the config page. [karaoke](#828#835@andy840119)
 
 ## Framework
 - Add `github action` to run `CI` if create new PR. [microphone-package](#45@andy840119)

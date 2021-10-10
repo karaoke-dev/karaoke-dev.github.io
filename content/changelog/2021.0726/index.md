@@ -4,7 +4,7 @@ date: 2021-07-26
 ---
 
 ## Achievement
-- \more then 69 stars/
+- \more than 69 stars/
 - No. 777 PR has been created.
 
 ## Code quality
@@ -18,15 +18,15 @@ date: 2021-07-26
 - Implement base extra recording mode area in `lyric editor`. [karaoke](#751#752#753@andy840119)    
 ![](res/2021-07-27-00-00-45.png)
 - Add `config button` next to the auto-generate button. [karaoke](#764@andy840119)
-- should make `lyric editor` has it's own `config manager`. [karaoke](#765#766@andy840119)
+- should make `lyric editor` has its own `config manager`. [karaoke](#765#766@andy840119)
 - Add more config in `lyric editor`. [karaoke](#767#768@andy840119)
 - Should sync selection in `singer container`. [karaoke](#691#774#775@andy840119)
-- Should change notes if user re-generate note. [karaoke](#704#786@andy840119)
+- Should change notes if user re-generates note. [karaoke](#704#786@andy840119)
 
 ## Fix
 - because `font resource` has changed in `osu-resource`, so update font list is needed. [karaoke](#777@andy840119)
-- Should have preview font style in font selector. [karaoke](#778#779@andy840119)
-- Fix cannot go to result screen. [karaoke](#782#785@andy840119)
+- Should have preview font style in the font selector. [karaoke](#778#779@andy840119)
+- Fix cannot go to the result screen. [karaoke](#782#785@andy840119)
 
 ## Setting
 - Should clear `hover area` in `config page` if typing in config section. [karaoke](#761#763@andy840119)
