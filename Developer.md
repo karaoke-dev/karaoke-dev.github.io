@@ -4,7 +4,7 @@ nav_exclude: true
 
 # Developer
 
-This article is written in internal, just for convenience.
+This article is written for internal use, just for convenience.
 
 ## All available title
 
@@ -34,12 +34,12 @@ This article is written in internal, just for convenience.
 
 ## Example link
 
-Sometime lazy to type all the url, so use special tag to mark.
+Sometimes lazy to type all the URL, so use the special tag to mark.
 
 E.g : 
 
 ```
-- Implement some feature. [karaoke](#32@andy840119)
+- Implement some features. [karaoke](#32@andy840119)
 ```
 
 Means :
