@@ -28,7 +28,7 @@ date: 2021-12-12
 - Remove editor sub screen class. [karaoke](#944@andy840119)
 - Remove un-need menu item. [karaoke](#945@andy840119)
 - Implement all handler for property change in the editor. [karaoke](#954#962@andy840119)
-- Using change handler to replace some `manager`. [karaoke](#957$964@andy840119)
+- Using change handler to replace some `manager`. [karaoke](#957#964@andy840119)
 
 ## Utility
 - Implement bindables utils to sync data with two different type of bindable list. [karaoke](#956@andy840119)
