@@ -19,9 +19,11 @@ This article is written for internal use, just for convenience.
 - Fix: Fix any exist/found error.
 - Gameplay : Jsut gameplay, of course it's means karaoke ruleset's gameplay.
 - Import : About import beatmap step.
+- Localization : Anything about translation.
 - Mods : Anything about mods.
 - Online : Will use if have.
 - Performance : Make things run faster or smoother.
+- Resources : About changing the resources.
 - Result : Result screen.
 - Reliability : Less crash.
 - Setting : Any change in ruleset setting area.
