@@ -35,6 +35,10 @@ date: 2022-06-25
   ![](res/2022-06-25-21-45-07.png)
 - Should be able to show the `singer avatar` in the tooltip. [karaoke](#1381#1382@andy840119)
 
+## Framework
+- Enable NRT in the font package. [font-package](#223@andy840119)
+- Enable NRT in the microphone package. [microphone-package](#245@andy840119)
+
 ## Fix
 - Should update singer info in the tooltip after singer info updated. [karaoke](#1372#1373@andy840119)
 - Fix the invalid singer size issue in the lyric editor. [karaoke](#1371#1374@andy840119)
