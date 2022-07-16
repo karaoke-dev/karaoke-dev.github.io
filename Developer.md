@@ -30,9 +30,12 @@ This article is written for internal use, just for convenience.
 - Skinning : Karoake will let user to `make`/`apply` it's own skin `\OWO/`.
 - Testing : Anything change about tests.
 - Tooling : Some tool for faster develop.
-- UX : Make ui pretty.
+- UI/UX : Make ui pretty.
 - Utility : Some data-process helper.
 - Youtube : Any video upload in youtube.
+
+## Prefix
+- [Close duplicated] : Old issue, not implemented or fixed in the current milestone.
 
 ## Example link
 
