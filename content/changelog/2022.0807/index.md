@@ -4,7 +4,8 @@ date: 2022-08-07
 ---
 
 ## Achievement
-- Implement `copy`/`paste` feature in the lyric editor.
+- Implement `copy`/`paste` feature in the lyric editor.    
+![](res/2022-08-07-11-34-06.png)
 - Start implement `reference lyric` feature. The lyric property can be sync by other lyric if they are very similar.    
 ![](res/2022-08-07-11-32-19.png)
 - Following the refactor in the o!f to fix the api change.    
