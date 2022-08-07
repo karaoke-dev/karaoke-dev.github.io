@@ -5,9 +5,12 @@ date: 2022-08-07
 
 ## Achievement
 - Implement `copy`/`paste` feature in the lyric editor.
-- Start implement reference lyric feature. The lyric property can be sync by other lyric if they are very similar.
-- Following the refactor in the o!f to fix the api change.
-- Pull-request [#1450](https://github.com/karaoke-dev/karaoke/pull/1450) has been created.
+- Start implement `reference lyric` feature. The lyric property can be sync by other lyric if they are very similar.    
+![](res/2022-08-07-11-32-19.png)
+- Following the refactor in the o!f to fix the api change.    
+![](res/2022-08-07-11-27-54.png)
+- Pull-request [#1450](https://github.com/karaoke-dev/karaoke/pull/1450) has been created.    
+![](res/2022-08-07-11-33-01.png)
 - Refactor the format ahd behavior in the scoring note.
 
 ## Beatmap
@@ -45,10 +48,12 @@ date: 2022-08-07
 - Adjust the non-match hint string in the reference lyric auto-generate section. [karaoke](#1487#1494@andy840119)    
 ![](res/2022-08-07-11-16-28.png)
 
+## Framework
+- Fix the breaking change in the current `o!f` release. [font-package](#245@andy840119)
+- Let the karoake font and lyric sprite text support multiple shoader. [font-package](#247@andy840119)
 
 ## Fix
 - Prevent reload the section while switch the typing/split mode. [karaoke](#1485@andy840119)
-
 
 ## UI/UX
 - Should auto-fucus to the textbox in the language selector popover. [karaoke](#1461#1463@andy840119)
