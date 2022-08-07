@@ -54,4 +54,4 @@ date: 2022-06-25
 - Implement `first-run step` for the ruleset. [karaoke](#1362#1376@andy840119)
 
 ## Tooling
-- Add github action for upload the localisation to crowdin. [karaoke](#1368#1369#1370@andy840119)
+- [Close duplicated] Add github action for upload the localisation to crowdin. [karaoke](#1368#1369#1370@andy840119)
