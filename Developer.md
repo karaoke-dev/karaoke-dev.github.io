@@ -28,6 +28,7 @@ This article is written for internal use, just for convenience.
 - Reliability : Less crash.
 - Setting : Any change in ruleset setting area.
 - Skinning : Karoake will let user to `make`/`apply` it's own skin `\OWO/`.
+- Stage : Karaoke support different type of stages now.
 - Testing : Anything change about tests.
 - Tooling : Some tool for faster develop.
 - UI/UX : Make ui pretty.
