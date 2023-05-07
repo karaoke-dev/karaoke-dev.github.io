@@ -19,7 +19,7 @@ date: 2023-04-22
 - Regular clean up code. [karaoke](#1911@andy840119)
 - Convert to using declaration to make the CI happy. [karaoke](#1912@andy840119)    
   from:
-  ```
+  ```csharp
   using (var sw = new StreamWriter(ms))
   {
     var encoder = new KaraokeLegacyBeatmapEncoder();
@@ -28,7 +28,7 @@ date: 2023-04-22
   }
   ```
   to:
-  ```
+  ```csharp
   using var sw = new StreamWriter(ms);
 
   var encoder = new KaraokeLegacyBeatmapEncoder();
@@ -44,7 +44,7 @@ date: 2023-04-22
 - Implement the base class for the stage element for collecting the shared info like `ID` and `Name`. [karaoke](#1913@andy840119)
 - Should be able to clear the whole elements in the stage category. [karaoke](#1915@andy840119)
 - Add `stage element` as working property in the `note` and the `lyric` for able to apply the stage effect in the `drawable lyric` easily. [karaoke](#1919@andy840119)
-- Auto-create and initialize the beatmap stage if current stage in the beatmap is empty. [karaoke](#1922@andy840119)
+- Auto-create and initialize the beatmap stage if current stage in the beatmap is empty. [karaoke](#1905#1922@andy840119)
 - Implement base stage definition class. Technically, one stage info should only one stage definition to recording something like playfield size, lyric fading effect or anything related to the stage and can be configurable. [karaoke](#1925@andy840119)
 - Add serializer for the preview stage info. [karaoke](#1926@andy840119)
   > Technically, we will not save the preview stage info info into the beatmap but still make the serializer.
