@@ -11,3 +11,9 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# local vscode config files
+.vscode
+
+# local jetbrain config files
+.idea
