@@ -13,4 +13,6 @@ jobs:
       - name: Prettify code
         uses: creyD/prettier_action@v4.3
         with:
+          # same as npx prettier --check ./content/**/*.md
+          # if ci failed, try to run `npx prettier --write ./content/**/*.md` to fix it
           prettier_options: --check ./content/**/*.md
