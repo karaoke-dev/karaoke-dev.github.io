@@ -1,24 +1,28 @@
 ---
-title: '2023.0422'
+title: "2023.0422"
 date: 2023-04-22
 ---
 
 ## Achievement
+
 - Re-write some code to let the ruleset able to support different type of stage.
   ![](res/2023-04-22-10-01-55.png)
 - Add three more stars in this proejct.
-- Trying to reduce working hours but seems failed ;_;
+- Trying to reduce working hours but seems failed ;\_;
 - Not very sure, maybe andy and this project is full of mistake and there's no achievement actually.
 - Add new stage section for the chagne log.
 
 ## Beatmap
+
 - Move fill the working property method into the hit-object to make the `beatmap processor` simple. [karaoke](#1923@andy840119)
 - Stage info can be invalidate in the editor. Means we can see the change in the editor if any property related to the stage changed. [karaoke](#1924@andy840119)
 
 ## Code quality
+
 - Regular clean up code. [karaoke](#1911@andy840119)
-- Convert to using declaration to make the CI happy. [karaoke](#1912@andy840119)    
+- Convert to using declaration to make the CI happy. [karaoke](#1912@andy840119)  
   from:
+
   ```csharp
   using (var sw = new StreamWriter(ms))
   {
@@ -27,7 +31,9 @@ date: 2023-04-22
     sw.WriteLine(encodeResult);
   }
   ```
+
   to:
+
   ```csharp
   using var sw = new StreamWriter(ms);
 
@@ -35,12 +41,15 @@ date: 2023-04-22
   string encodeResult = encoder.Encode(beatmap);
   sw.WriteLine(encodeResult);
   ```
+
 - Refactor the change handler test. [karaoke](#1917@andy840119)
 
 ## Setting
+
 - Remove the font size adjustment in the config. [karaoke](#1945@andy840119)
 
 ## Stage
+
 - Implement the base class for the stage element for collecting the shared info like `ID` and `Name`. [karaoke](#1913@andy840119)
 - Should be able to clear the whole elements in the stage category. [karaoke](#1915@andy840119)
 - Add `stage element` as working property in the `note` and the `lyric` for able to apply the stage effect in the `drawable lyric` easily. [karaoke](#1919@andy840119)
@@ -68,8 +77,8 @@ date: 2023-04-22
   - Add more properties(e.g. fading duration and effect for the lyric) in the default stage definition. [karaoke](#1932@andy840119)
   - Let preview stage timing calculator support delay effect. [karaoke](#1934@andy840119)
   - Implement the preview stage's lyric transformer effect. [karaoke](#1937@andy840119)
-  - Implement the drawable to show the beatmap cover and some basic info. [karaoke](#1940@andy840119)    
-  ![](res/2023-04-22-10-57-40.png)
+  - Implement the drawable to show the beatmap cover and some basic info. [karaoke](#1940@andy840119)  
+    ![](res/2023-04-22-10-57-40.png)
   - Should not use overlay colour in gameplay component(beatmap cover info). [karaoke](#1942@andy840119)
   - Implement the stage applier for the preview stage. [karaoke](#1943@andy840119)
   - Adjust the stage layout for the preview stage with scorable or non-scorable. [karaoke](#1944@andy840119)

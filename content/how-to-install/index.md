@@ -18,23 +18,23 @@ But if you are Windows user, I recommend you use [Osu-ModeManager](https://githu
 
 2. Download sample ruleset list from [here](res/osu.Game.Rulesets.List.txt), so you don't need to add it manually.
 
-3. Open this program and login with your Github account.    
-![](res/sign-in.png) ![](res/sign-in-step-2.png)
+3. Open this program and login with your Github account.  
+   ![](res/sign-in.png) ![](res/sign-in-step-2.png)
 
-4. Select the `latest` lazer version you install, e.g : `app-2020.0903.0`.    
-![](res/main-page.png)
+4. Select the `latest` lazer version you install, e.g : `app-2020.0903.0`.  
+   ![](res/main-page.png)
 
-5. Press `Import` to import `source list` download before.    
-![](res/main-page-with-ruleset.png)
+5. Press `Import` to import `source list` download before.  
+   ![](res/main-page-with-ruleset.png)
 
-6. Then press `check for updates`, then download ruleset.    
-![](res/check-update.png)
+6. Then press `check for updates`, then download ruleset.  
+   ![](res/check-update.png)
 
-7. Open your lazer client, then enjoy customize ruleset.    
-![](res/all-ruleset-installed.png)
+7. Open your lazer client, then enjoy customize ruleset.  
+   ![](res/all-ruleset-installed.png)
 
-8. You can add another ruleset by yourself, but be careful url should end with `/`, like : https://github.com/karaoke-dev/karaoke`/`    
-![](res/new-source.png)
+8. You can add another ruleset by yourself, but be careful url should end with `/`, like : https://github.com/karaoke-dev/karaoke`/`  
+   ![](res/new-source.png)
 
 &nbsp;
 

@@ -1,15 +1,17 @@
 ---
-title: '2021.1212'
+title: "2021.1212"
 date: 2021-12-12
 ---
 
 ## Achievement
+
 - Refactor some editor.
 - Not karaoke editor has its own
 - Implement change handler for lyric objects.
-![](res/2021-12-12-20-31-08.png)
+  ![](res/2021-12-12-20-31-08.png)
 
 ## Code quality
+
 - Rename from "ImportLyricScreen" into "LyricImporter". [karaoke](#934#936@andy840119)
 - Clean up code. [karaoke](#946@andy840119)
 - Remove postfix "Screen" in "KaraokeConfigScreen" class. [karaoke](#941#947@andy840119)
@@ -18,6 +20,7 @@ date: 2021-12-12
 - Fix "Parameter type can be IEnumerable of T" issue. [karaoke](#968#969@andy840119)
 
 ## Editor
+
 - Make editor sub-screen inherit real screen. [karaoke](#933@andy840119)
 - Make lyric import into editor screen. [karaoke](#932@andy840119)
 - Move lyric editor into individual screen. [karaoke](#931@andy840119)
@@ -31,4 +34,5 @@ date: 2021-12-12
 - Using change handler to replace some `manager`. [karaoke](#957#964@andy840119)
 
 ## Utility
+
 - Implement bindables utils to sync data with two different type of bindable list. [karaoke](#956@andy840119)

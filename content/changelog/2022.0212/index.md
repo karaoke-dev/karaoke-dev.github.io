@@ -1,9 +1,10 @@
 ---
-title: '2022.0212'
+title: "2022.0212"
 date: 2022-02-12
 ---
 
 ## Achievement
+
 - \No 1111 has been created/ [karaoke](#1111@andy840119)
 - Close lots of old issues.
 - Create and close lots of new issues.
@@ -11,16 +12,19 @@ date: 2022-02-12
 - Migrate skin roles for more flexibility.
 
 ## Beatmap
+
 - Add primary key into lyric object. [karaoke](#1078@andy840119)
 - Record HUE instead of Hex in the singer(for not let user to select the dirty color). [karaoke](#1042@andy840119)
 - Remove all layout index in the lyric. [karaoke](#1079#1089#1090#1091#1092#1093@andy840119)
 - [Close duplicated] Change `ruby`/`romaji` from `bindable` to `bindable list` in the lyric object. [karaoke](#891@andy840119)
 
 ## Code quality
+
 - Use the better way for able to access editor in test scene.
 - Fix Assert.AreEqual wrong using. [karaoke](#1100#1111@andy840119)
 
 ## Editor
+
 - Should wrap change handler in note popover. [karaoke](#1053#1055@andy840119)
 - Should wrap change in `importLyric` method in `KaraokeEditor`. [karaoke](#1054#1056@andy840119)
 - Combine notes and note property into single change handler. [karaoke](#1058#1059@andy840119)
@@ -45,6 +49,7 @@ date: 2022-02-12
 - [Close duplicated] Implement singer editor. [karaoke](#214@andy840119)
 
 ## Fix
+
 - Make the ruleset able to read customized beatmap. [karaoke](#1087@andy840119)
 - Seems internal skin is not loaded well in release build. [karaoke](#1100@andy840119)
 - Fix the issue that cannot enter the editor. [karaoke](#1103@andy840119)
@@ -53,9 +58,11 @@ date: 2022-02-12
 - [Close duplicated] Fix lyric font broken if playback. [karaoke](#772@andy840119)
 
 ## Setting
+
 - Should be able to show the release version someplace. [karaoke](#1101#1112@andy840119)
 
 ## Skinning
+
 - Adjust folder structure and add class for new skin structure. [karaoke](#1075@andy840119)
 - Apply new skin structure into karaoke beatmap. [karaoke](#1076@andy840119)
 - Apply new skin roles in the karaoke beatmap. [karaoke](#1077@andy840119)

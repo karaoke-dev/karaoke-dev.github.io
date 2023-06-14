@@ -1,9 +1,10 @@
 ---
-title: '2021.0228'
+title: "2021.0228"
 date: 2021-02-28
 ---
 
 ## Code quality
+
 - Move some tooltips out of Graphics/Cursor namespace. [karaoke](#470@andy840119)
 - Re-write `TimeTagsUtilsTest` test. [karaoke](#477@andy840119)
 - Combine `LyricEditor` and `LyricEditorStateManager`. [karaoke](#489@andy840119)
@@ -12,6 +13,7 @@ date: 2021-02-28
 - Make calcuoation `caret position` abstract for better maintainance. [karaoke](#496#497@andy840119)
 
 ## Editor
+
 - Adjust `color` in lyric editor. [karaoke](#462@andy840119)
 - Show alert checker in lyric editor. [karaoke](#469@andy840119)
 - Combine `cursor` and `moving cursor position` into single bindable in lyric editor. [karaoke](#473@andy840119)
@@ -23,7 +25,9 @@ date: 2021-02-28
 - Implement combine and separate lyric in lyric editor. [karaoke](#498@andy840119)
 
 ## Fix
+
 - Fix cause error if move lyric time. [karaoke](#500@andy840119)
 
 ## Testing
+
 - Writing test case to list all the `color` and `hex code` in `OverlayColourProvider`. [karaoke](#478@andy840119)

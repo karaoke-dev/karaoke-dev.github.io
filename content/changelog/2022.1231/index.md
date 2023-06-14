@@ -1,9 +1,10 @@
 ---
-title: '2022.1231'
+title: "2022.1231"
 date: 2022-12-31
 ---
 
 ## Achievement
+
 - Will go to american for a month i guess.
 - Not buying anything at 12/12.
 - Still have friends in this year.
@@ -11,6 +12,7 @@ date: 2022-12-31
 - Make everything happy except andy.
 
 ## Beatmap
+
 - Remember the reference lyric id instead of instance in the json beatmap. [karaoke](#1757@andy840119)
   - Use beatmap processor to restore the lyric in the lyric or note. [karaoke](#1758@andy840119)
 - Mark `start time` and `end time` as json-ignored in the lyric because this property is being calcualted. [karaoke](#1761@andy840119)
@@ -25,12 +27,13 @@ date: 2022-12-31
 - Implement beatmap page checks. [karaoke](#1780@andy840119)
 
 ## Code quality
+
 - Run dotnet format to make the code happy. [karaoke](#1756@andy840119)
 - Refactor the beatmap property-related change handler. [karaoke](#1773@andy840119)
 - Move the `screen related things` (e.g. `lyric editor` or `singer editor`.) into screen namespace. [karaoke](#1767#1777@andy840119)
 - Refactor lyric and note's class structure. Make the non-save property into individual class. [karaoke](#1801@andy840119)
 - Move some editor-related component into more generic namespace. [karaoke](#1784@andy840119)
-  - Make `EditModeSection<T>` and `LyricEditorSettings ` more generic because it will be used outside of the lyric editor. [karaoke](#1785@andy840119)    
+  - Make `EditModeSection<T>` and `LyricEditorSettings ` more generic because it will be used outside of the lyric editor. [karaoke](#1785@andy840119)  
     ![](res/2022-12-31-16-13-12.png)
   - Move the issue table into more generic location. [karaoke](#1787@andy840119)
   - Move issue section into more generic location. [karaoke](#1789#1792@andy840119)
@@ -48,19 +51,20 @@ date: 2022-12-31
 - Use better way to get the all colour in the color provider in some color-related test cases. [karaoke](#1818@andy840119)
 
 ## Editor
-- Add the issue table for the reference lyric edit mode. [karaoke](#1749@andy840119)    
+
+- Add the issue table for the reference lyric edit mode. [karaoke](#1749@andy840119)  
   ![](res/2022-12-31-14-05-13.png)
 - Fix change time tag time not update the lyric start and end time. [karaoke](#1762@andy840119)
 - Implement beatmap page change handler. [karaoke](#1778@andy840119)
 - Implement the page editor.
   ![](res/2022-12-31-16-33-15.png)
-  - Implement base page editor. [karaoke](#1786@andy840119)    
+  - Implement base page editor. [karaoke](#1786@andy840119)  
     ![](res/2022-12-31-16-15-13.png)
-  - Implement page editor verifier. [karaoke](#1793@andy840119)    
+  - Implement page editor verifier. [karaoke](#1793@andy840119)  
     ![](res/2022-12-31-16-18-29.png)
-  - Implement pages section. [karaoke](#1797@andy840119)    
+  - Implement pages section. [karaoke](#1797@andy840119)  
     ![](res/2022-12-31-16-18-46.png)
-  - Implement page bottom timeline. [karaoke](#1800@andy840119)    
+  - Implement page bottom timeline. [karaoke](#1800@andy840119)  
     ![](res/2022-12-31-16-19-58.png)
   - Improve the page editor. [karaoke](#1802@andy840119)
   - Implement page auto generator. [karaoke](#1806@andy840119)
@@ -68,15 +72,19 @@ date: 2022-12-31
 - [Close duplicated] Add loading animation if lyric haven't loaded. [karaoke](#938@andy840119)
 
 ## Fix
-- Fix weird dragging experience in the adjust time-tag mode. [karaoke](#1752#1753@andy840119)    
+
+- Fix weird dragging experience in the adjust time-tag mode. [karaoke](#1752#1753@andy840119)  
   ![](res/2022-12-31-14-05-40.png)
 
 ## Skinning
+
 - Rename from `lyric config` into `lyric font info`. [karaoke](#1760@andy840119)
 
 ## Tooling
+
 - Upgrade the ruleset to the `.net6` to support latest lazer. [karaoke](#1813@andy840119)
   - Fix the release build not working. [karaoke](#1815#1816@andy840119)
 
 ## Utility
+
 - Add utils to load save culture info. [karaoke](#1812@andy840119)
