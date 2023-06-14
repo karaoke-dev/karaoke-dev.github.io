@@ -1,13 +1,15 @@
 ---
-title: '2022.0716'
+title: "2022.0716"
 date: 2022-07-16
 ---
 
 ## Achievement
+
 - Finall got that cool M1 macbook.
 - Waiting for that stupid laptop for 3 months.
 
 ## Code quality
+
 - Enable NRT in the skinning. [karaoke](#1412@andy840119)
 - Use `IList<T>` instead of `List<T>` in the karaoke beatmap. [karaoke](#1410#1413@andy840119)
 - Remove null check in the caret algorithm. [karaoke](#1414@andy840119)
@@ -24,12 +26,15 @@ date: 2022-07-16
 - Refactor the interface in the lyric selection button. [karaoke](#1434@andy840119)
 
 ## Fix
+
 - Use temp way to fix font might not appear if using nvidia graphic card. [karaoke](#1318#1426@andy840119)
 - Fix should not call the change handler if not edit the text in the lyric editor. [karaoke](#1437@andy840119)
 - Fix will cause crash if switch from translate screen to singer screen. [karaoke](#1436#1438@andy840119)
 
 ## Tooling
+
 - [Close duplicated] Make a CI for checking if user generated the localization resource file. [karaoke](#1269@andy840119)
 
 ## UI/UX
+
 - Adjust the ` lyric selection` style in the lyric editor. [karaoke](#1433@andy840119)

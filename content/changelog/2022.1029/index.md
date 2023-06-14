@@ -1,11 +1,12 @@
 ---
-title: '2022.1029'
+title: "2022.1029"
 date: 2022-10-29
 ---
 
 ## Achievement
-- \1000 pull-request/    
-![](res/2022-10-29-16-58-30.png)
+
+- \1000 pull-request/  
+  ![](res/2022-10-29-16-58-30.png)
 - Make the toolbar button more complete in the lyric editor.
 - Got that damn real COVID-19
 - Not really sure, IDK.
@@ -13,6 +14,7 @@ date: 2022-10-29
 - Refactor the checks in the editor.
 
 ## Code quality
+
 - Refactor the edit input manager. [karaoke](#1637@andy840119)
 - Refactor the caret position algorithm. [karaoke](#1640#1642@andy840119)
 - Should not expose the algorithm in the caret state. [karaoke](#1643@andy840119)
@@ -26,10 +28,11 @@ date: 2022-10-29
 - Regular clean-up code. [karaoke](#1667@andy840119)
 
 ## Editor
+
 - Should be able to get the sub-mode changed. [karaoke](#1636@andy840119)
 - Implement some action buttons for the lyric composer in the lyric editor. [karaoke](#1638@andy840119)
-- Should disable the move up and down button if not movable. [karaoke](#1639#1644@andy840119)    
-![](res/2022-10-29-17-23-36.png)
+- Should disable the move up and down button if not movable. [karaoke](#1639#1644@andy840119)  
+  ![](res/2022-10-29-17-23-36.png)
 - Should trigger the click effect after click the toolbar button. [karaoke](#1645@andy840119)
 - Panel button should not have click effect. [karaoke](#1648@andy840119)
 - Implement move time tag toolbar button in the lyric editor. [karaoke](#1652@andy840119)
@@ -38,12 +41,12 @@ date: 2022-10-29
 - Add more flexible for restrict change the different lyric by changing the index inside the lyric. [karaoke](#1651#1661@andy840119)
 - Adjust karaoke edit action and add more actions in lyric editor composer. [karaoke](#1663@andy840119)
 - Able to auto-adjust the different composer size by bottom editor in the lyric editor. [karaoke](#1664@andy840119)
-- Add more buttton in the toolbar for able to set and clear the time-tag time. [karaoke](#1665@andy840119)    
-![](res/2022-10-29-18-08-48.png)
-- Implement playback control in the composer. [karaoke](#1666@andy840119)    
-![](res/2022-10-29-18-09-31.png)
-- Implement adjust font size toolbar button in the composer. [karaoke](#1668@andy840119)    
-![](res/2022-10-29-18-10-25.png)
+- Add more buttton in the toolbar for able to set and clear the time-tag time. [karaoke](#1665@andy840119)  
+  ![](res/2022-10-29-18-08-48.png)
+- Implement playback control in the composer. [karaoke](#1666@andy840119)  
+  ![](res/2022-10-29-18-09-31.png)
+- Implement adjust font size toolbar button in the composer. [karaoke](#1668@andy840119)  
+  ![](res/2022-10-29-18-10-25.png)
 - Implement shifting time tag timing change handler. [karaoke](#1670@andy840119)
 - Remove the scroll striction and make sure scroll to the correct time in the adjust time-tag mode. [karaoke](#1671@andy840119)
 - Implement animation for switching different layout in lyric editor. [karaoke](#1622#1676@andy840119)
@@ -63,6 +66,7 @@ date: 2022-10-29
   - Give issue tempale a better naming, type or invalid message. [karaoke](#1695@andy840119)
 
 ## Fix
+
 - Fix karaoke text not showing if use the legacy skin. [karaoke](#1621#1633@andy840119)
 - Fix cannot click to navigate the caret in the detail lyric list. [karaoke](#1635@andy840119)
 - Fix got the error if switch from typing mode into split text mode in the lyric editor. [karaoke](#1649@andy840119)
@@ -70,9 +74,11 @@ date: 2022-10-29
 - Fix the wrong position calculation in scroll container after refactored. [karaoke](#1678@andy840119)
 
 ## Performance
+
 - Let change handler able to handle the change case that trigger every frame. [karaoke](#1669@andy840119)
 
 ## Tooling
+
 - Switch another github action tool for release the build. [karaoke](#1673@andy840119)
 - Instead of packing all necessary dlls into the single one, should be better to have location to copy all dlls into a folder for easier to testing. [karaoke](#1674@andy840119)
 - Copy more dlls into target folder to prevent dll not found issue while running in lazer. [karaoke](#1675@andy840119)

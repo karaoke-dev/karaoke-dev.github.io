@@ -1,9 +1,10 @@
 ---
-title: '2021.0619'
+title: "2021.0619"
 date: 2021-06-19
 ---
 
 ## Code quality
+
 - Refactor exists lyric editor. [karaoke](#660@andy840119)
 - Adjust namespace in singer editor. [karaoke](#661@andy840119)
 - Random fix. [karaoke](#665@andy840119)
@@ -12,6 +13,7 @@ date: 2021-06-19
 - Adjust edit mode order. [karaoke](#701@andy840119)
 
 ## Editor
+
 - Fix cannot fully delete lyrics in the lyric editor. [karaoke](#659@andy840119)
 - Implement each edit mode will have its own color theme in the lyric editor. [karaoke](#669@andy840119)
 - Random fixes lyric editor. [karaoke](#672@andy840119)
@@ -28,5 +30,6 @@ date: 2021-06-19
 - check should have a start time tag in the lyric. [karaoke](#700@andy840119)
 
 ## Fix
+
 - Fix ILRepack might cause image missing. [karaoke](#657@andy840119)
 - Fix slow loading speed in the changelog, also apply new style. [karaoke](#666#667@andy840119)

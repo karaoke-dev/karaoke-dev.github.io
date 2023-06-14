@@ -1,22 +1,26 @@
 ---
-title: '2022.0122'
+title: "2022.0122"
 date: 2022-01-22
 ---
 
 ## Achievement
+
 - \Hit 100 stars/
 
 ![](res/2022-01-22-09-44-49.png)
 
 ## Beatmap
+
 - Check is there any reason why not use `bindable list` for tags in lyric. [karaoke](#1028@andy840119)
 - Make `TimeTag[]` TimeTags into `IEnumerable<TimeTag>` in the lyric class. [karaoke](#1027@andy840119)
 - Change some properties from `Bindable<tag[]>` into `BindableList<tag>` in lyric. [karaoke](#1031@andy840119)
 
-## Code quality 
+## Code quality
+
 - `int shifting` should be renamed to `int offset` in some methods. [karaoke](#1033#1035@andy840119)
 
 ## Fix
+
 - Fix screen broken after add new text in lyric editor. [karaoke](#1005@andy840119)
 - Fix cause crash if change mode after delete the lyric. [karaoke](#1008@andy840119)
 - Fix the `lyric importer` will crash if switch mode in edit lyric mode. [karaoke](#1012#1013@andy840119)
@@ -30,6 +34,7 @@ date: 2022-01-22
 - Fix something might broken in the `translate editor`. [karaoke](#1049#1051@andy840119)
 
 ## Editor
+
 - Implement typing feature in lyric editor. [karaoke](#1003@andy840119)
 - Should use `change handler` if change text-tag properties. [karaoke](#1009@andy840119)
 - move more `caret position calculation` algorithm into caret state class. [karaoke](#1011@andy840119)

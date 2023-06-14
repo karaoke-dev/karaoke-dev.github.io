@@ -1,15 +1,17 @@
 ---
-title: '2022.0511'
+title: "2022.0511"
 date: 2022-05-11
 ---
 
 ## Achievement
+
 - Fix some karaoke text effect and let it runnable in the osx.
 - Damn lots of work in the font framework.
 - Adjust the style in the lyric editor.
   ![](res/2022-05-12-00-47-22.png)
 
 ## Code quality
+
 - Running clean up code script. [karaoke](#1273@andy840119)
 - Refactor preview lyric component. [karaoke](#1281@andy840119)
 - Refactor collect singing lyrics logic. [karaoke](#1282@andy840119)
@@ -21,9 +23,11 @@ date: 2022-05-11
 - Remove and refactor some un-need methods in the TimeTagsUtils. [karaoke](#1303@andy840119)
 
 ## Editor
+
 - Add outline effect in the lyric editor. [karaoke](#1275@andy840119)
 
 ## Framework
+
 - Let the shader to support older version. [font-package](#140@andy840119)
 - Add missing toSRGB() to some shaders for fixing the color issue. [font-package](#145@andy840119)
 - Fix CRT shader cannot run on the osx. [font-package](#147@andy840119)
@@ -49,6 +53,7 @@ date: 2022-05-11
 - Clean up code. [font-package](#188@andy840119)
 
 ## Fix
+
 - Fix shader effect cannot work in the osx. [karaoke](#1274@andy840119)
 - Adjust localization. [karaoke](#1276@andy840119)
 - Fix config style messy issue after upgrade `osu.Game`. [karaoke](#1278@andy840119)
@@ -58,4 +63,5 @@ date: 2022-05-11
 - Fix the style in the change log. [karaoke](#1299#1300@andy840119)
 
 ## Performance
+
 - Update the package to the latest to improve around 1.5x of the performance. [karaoke](#1290@andy840119)

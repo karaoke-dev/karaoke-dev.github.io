@@ -1,19 +1,22 @@
 ---
-title: '2023.0329'
+title: "2023.0329"
 date: 2023-03-29
 ---
 
 ## Achievement
+
 - Go to `CA` and come back.
 - Company has a fall-guys event and still alive.
 - Project need to re-write the shader. `Andy840119` and `WebFreak001` make the new shader for it.
 - Figured out some features can be dropped but still playable(andy is happy now).
 
 ## Code quality
+
 - Regular clean-up code. [karaoke](#1867@andy840119)
 - Apply file scope to the test project. [karaoke](#1877@andy840119)
 
 ## Editor
+
 - Implement basic check for the note info. [karaoke](#1860@andy840119)
 - Implement component for able to switch the workspace. [karaoke](#1838@andy840119)
 - Should not check the lyric's property in the note check. [karaoke](#1861@andy840119)
@@ -40,8 +43,8 @@ date: 2023-03-29
   - Use working singer property. [karaoke](#1903@andy840119)
   - `Change handler` should trigger `update hit-object in the beatmap(re-run beatmap processor for those hit-objects)` if needed. [karaoke](#1900#1902@andy840119)
 
-
 ## Framework
+
 - Re-write the shaders for able to let it works on the `DirectX` or `Vulkan`.
   - Upgrade osu-framework package to the latest. [font-package](#322@andy840119)
   - Upgrade shaders to new spir-v and fix the broken shader. [font-package](#321@WebFreak001)
@@ -49,14 +52,16 @@ date: 2023-03-29
     - Fix weird lyric effect in the gameplay. [karaoke](#1783@andy840119)
   - Fix the shadow shader has different shadow direction if using different renderer. [font-package](#334@andy840119)
 
-
 ## Fix
+
 - Upgrade the package to the latest and fix the shader issue.
 
 ## Testing
+
 - Fix get the null reference issue if call `SetUpKaraokeBeatmap()` before `PrepareHitObject()`. [karaoke](#1898@andy840119)
 - Make sure that `Update()` and `UpdateState()` is working in the `EditorBeatmp` with some editor-related test cases. [karaoke](#1899@andy840119)
 - Adjust change handler assertion. [karaoke](#1901@andy840119)
 
 ## Tooling
+
 - Leave message after upload the localization to the crowdin. [karaoke](#1833@andy840119)
