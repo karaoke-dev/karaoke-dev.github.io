@@ -5,7 +5,7 @@ date: 2023-07-07
 
 ## Achievement
 
-- Prepare for looking for new opportunity. 爺想換到比較有成就感，薪水也還行的工作上。
+- 是時候該思考一下人生的未來了QQ
 - Start new project for able to resolve leetcode question in the local environment.
 - Let the caret position able to drag to `select`/`create` range of `lyric text`/`ruby tags`.
 - Making ruleset's own primary key type to resolve duplicated `create new key number` logic.
