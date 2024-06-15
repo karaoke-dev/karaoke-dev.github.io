@@ -9,6 +9,7 @@ This article is written for internal use, just for convenience.
 ## All available title
 
 - Achievement: Mark something is importent, or new feature.
+- ARC: Add new roles for the architecture decision record.
 - Auto-Generator: Use code instead of human power.
 - Beatmap : Update about `legacy`/`new` beatmap format.
 - Blog : Big change about blog
