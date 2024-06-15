@@ -9,7 +9,7 @@ The source code of karaoke! ruleset's blog.
 
 ## Change log
 
-The latest `progress`/`idea`/`bug-fixed` status will be written in [here](https://karaoke-dev.github.io/changelog).
+The latest `progress`/`idea`/`bug-fixed` status will be written in [here](https://blog.karaoke.dev/).
 
 ## How to fix typo
 
