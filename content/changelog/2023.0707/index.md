@@ -15,11 +15,11 @@ date: 2023-07-07
 
 ## Beatmap
 
-- [Close duplicated] Write `karaoke`'s own `reference resolver`. [karaoke](#1108@andy840119)
+- [outdated] Write `karaoke`'s own `reference resolver`. [karaoke](#1108@andy840119)
   > because `karaoke beatmap processor` will fill all the reference value, So there's no need to implement it in the json beatmap.
-- [Close duplicated] Link between lyric and note. [karaoke](#569@andy840119)
+- [outdated] Link between lyric and note. [karaoke](#569@andy840119)
   > Already has better way to do that.
-- [Close duplicated] Implement note checker. [karaoke](#565@andy840119)
+- [outdated] Implement note checker. [karaoke](#565@andy840119)
   > Implemented already.
 - Use `string with hex` format to replace the `number` format as primary key for the object in the karoake beatmap. [karaoke](#2045@andy840119)
   > The main benefit is that there's no need to write lots of logic to create the new primary key.
@@ -38,7 +38,7 @@ date: 2023-07-07
 ## Code quality
 
 - Regular clean up code. [karaoke](#2035@andy840119)
-- [Close duplicated] Remove all `AllowNull` attribute eventually. [karaoke](#1411@andy840119)
+- [outdated] Remove all `AllowNull` attribute eventually. [karaoke](#1411@andy840119)
 - Remove nullable disable annotation in the remaining class. [karaoke](#2041@andy840119)
 - Move hit-object related `utils` into the `Objects` namespace. [karaoke](#2042#2043@andy840119)
 - Use `IEnumerable` instead of `Array` to make the method more easy to override. [karaoke](#2044@andy840119)
@@ -55,11 +55,11 @@ date: 2023-07-07
     > It means that we need to revert the change in the #2025, part of #2023 and #2022.
   - Refactor drawable caret layer for able to receive the release caret event. [karaoke](#2031@andy840119)
   - Refactor the drawable input caret. [karaoke](#2032@andy840119)
-  - [Close duplicated] Implement select range of text in lyric editor. [karaoke](#321@andy840119)
-  - [Close duplicated] Able right-click to create new ruby/romaji object. [karaoke](#618@andy840119)
+  - [outdated] Implement select range of text in lyric editor. [karaoke](#321@andy840119)
+  - [outdated] Able right-click to create new ruby/romaji object. [karaoke](#618@andy840119)
     > Have better UX instead.
 - Adjus the change handler. `ILyricTextChangeHandler` should be able to delete the range of the text. [karaoke](#2033@andy840119)
-- [Close duplicated] Implement change handler method to offset the list of the lyrics. [karaoke](#1443@andy840119)
+- [outdated] Implement change handler method to offset the list of the lyrics. [karaoke](#1443@andy840119)
 
 ## Result
 
@@ -68,6 +68,6 @@ date: 2023-07-07
 
 ## Skinning
 
-- [Close duplicated] Apply new skin structure(old). [karaoke](#1073@andy840119)  
+- [outdated] Apply new skin structure(old). [karaoke](#1073@andy840119)  
   ![](res/2023-07-09-22-03-42.png)
   > Close this issue because already come out better structure.

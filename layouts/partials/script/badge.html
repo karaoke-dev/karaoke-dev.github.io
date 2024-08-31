@@ -1,0 +1,29 @@
+<script> 
+    // replace [text] to badge style.
+    function replaceBadge(innerHtml, mappings) {
+        return innerHtml.replace(/\[(.*?)\]/, (match, p1) => {
+            const mapping = mappings[p1];
+            if(!mapping) {
+                return match;
+            }
+
+            const color = mappings[p1].color;
+            const style = 'background-color: ' + color + '; color: white; padding: 4px 8px; text-align: center; border-radius: 5px; font-family: Arial, Helvetica, sans-serif;'
+            const replaceWith = '<span style="' + style + '">' + p1 + '</span>'
+
+            return replaceWith;
+        });
+    }
+    
+    const liList = document.getElementsByTagName('li');
+    
+    for (var i = 0; i<liList.length; i++) {  
+        const li = liList[i]; 
+        
+        li.innerHTML = replaceBadge(li.innerHTML, {
+            outdated: {
+                color: 'Red',
+            }
+        });
+    }
+</script>

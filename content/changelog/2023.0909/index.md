@@ -37,11 +37,11 @@ date: 2023-09-09
 - Moving index caret position should be only in the editable lyric. [karaoke](#2114@andy840119)  
   ![](res/2023-09-09-13-45-33.png)
   > Should not change the caret index in here.
-- [Close duplicated] Should be able drag to select the lyric text in the typing. [karaoke](#2008@andy840119)
+- [outdated] Should be able drag to select the lyric text in the typing. [karaoke](#2008@andy840119)
 
 ## Fix
 
-- [Close duplicated] Refactor the issue tooltip.
+- [outdated] Refactor the issue tooltip.
 - Fix drag in range of text in the lyric editor might have performance issue. [karaoke](#2119#2120@andy840119)
 
 ## Tooling

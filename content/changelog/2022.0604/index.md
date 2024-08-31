@@ -27,9 +27,9 @@ date: 2022-06-04
 
 ## Editor
 
-- [Close duplicated] Change edit singer info into pop-over. [karaoke](#897@andy840119)
+- [outdated] Change edit singer info into pop-over. [karaoke](#897@andy840119)
 - Clearify the selection state strategy in the lyric editor. [karaoke](#1327@andy840119)
-- [Close duplicated] Define time-tag behavior. Closed due to time-tag in the karaoke editor should be always sorted in the changer handler. [karaoke](#1207@andy840119)
+- [outdated] Define time-tag behavior. Closed due to time-tag in the karaoke editor should be always sorted in the changer handler. [karaoke](#1207@andy840119)
 - Update `lyric editor` style to follow the `latest design`. [karaoke](#1346@andy840119)  
   ![](res/2022-06-03-23-13-20.png)
 - Implement caret for select language mode. [karaoke](#1352@andy840119)

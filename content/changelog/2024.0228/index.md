@@ -36,7 +36,7 @@ I dont't want to back to work now ;\_;
 
 ## Fix
 
-- [Close duplicated] Fix ruby generator not work due to packing tool. [karaoke](#1319@andy840119)
+- [outdated] Fix ruby generator not work due to packing tool. [karaoke](#1319@andy840119)
 - Upgrade the project to `.net8`, includes:
   - The main project. [karaoke](#2171@andy840119)
   - Project for display karaoke font. [font-package](#440@andy840119)

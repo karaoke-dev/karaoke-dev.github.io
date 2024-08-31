@@ -36,8 +36,8 @@ This article is written for internal use, just for convenience.
 - Utility : Some data-process helper.
 - Youtube : Any video upload in youtube.
 
-## Prefix
-- [Close duplicated] : Old issue, not implemented or fixed in the current milestone.
+## Badge
+- [outdated] : Old issue, not implemented or fixed in the current milestone.
 
 ## Example link
 
