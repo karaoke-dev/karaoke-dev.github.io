@@ -63,4 +63,4 @@ date: 2022-06-25
 
 ## Tooling
 
-- [Close duplicated] Add github action for upload the localisation to crowdin. [karaoke](#1368#1369#1370@andy840119)
+- [outdated] Add github action for upload the localisation to crowdin. [karaoke](#1368#1369#1370@andy840119)

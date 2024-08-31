@@ -33,7 +33,7 @@ date: 2022-07-16
 
 ## Tooling
 
-- [Close duplicated] Make a CI for checking if user generated the localization resource file. [karaoke](#1269@andy840119)
+- [outdated] Make a CI for checking if user generated the localization resource file. [karaoke](#1269@andy840119)
 
 ## UI/UX
 

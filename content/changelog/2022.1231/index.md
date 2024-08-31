@@ -69,7 +69,7 @@ date: 2022-12-31
   - Improve the page editor. [karaoke](#1802@andy840119)
   - Implement page auto generator. [karaoke](#1806@andy840119)
   - Apply auto generator into editor. [karaoke](#1811@andy840119)
-- [Close duplicated] Add loading animation if lyric haven't loaded. [karaoke](#938@andy840119)
+- [outdated] Add loading animation if lyric haven't loaded. [karaoke](#938@andy840119)
 
 ## Fix
 

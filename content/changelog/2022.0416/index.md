@@ -35,9 +35,9 @@ date: 2022-04-16
 - Should merge the `time-tag modes` in the lyric editor modes. [karaoke](#1246#1247@andy840119)
 - Move all sub edit mode into state namespace. [karaoke](#1248@andy840119)
 - Some improvement about `time-tag mode` in the lyric editor. [karaoke](#1113@andy840119)
-- [Close duplicated] Add waveform and ticks in `time-tag edit` extra area. [karaoke](#671@andy840119)
-- [Close duplicated] Some improvement about lyric editor. [karaoke](#1052@andy840119)
-- [Close duplicated] Handle the case that add/remove lyric in `singer` and `translate` editor. [karaoke](#1050@andy840119)
+- [outdated] Add waveform and ticks in `time-tag edit` extra area. [karaoke](#671@andy840119)
+- [outdated] Some improvement about lyric editor. [karaoke](#1052@andy840119)
+- [outdated] Handle the case that add/remove lyric in `singer` and `translate` editor. [karaoke](#1050@andy840119)
 
 ## Fix
 
@@ -46,7 +46,7 @@ date: 2022-04-16
 - Fix wrong `lyric order` in the tralslate and singer screen. [karaoke](#1239#1250@andy840119)
 - Fix cannot submit the text if only contains spacing. [karaoke](#1254#1255@andy840119)
 - Fix back button issue in the import lyric screen. [karaoke](#1256@andy840119)
-- [Close duplicated] Fix screen broken after add new text in lyric importer. [karaoke](#1004@andy840119)]
+- [outdated] Fix screen broken after add new text in lyric importer. [karaoke](#1004@andy840119)]
 
 ## Localization
 
@@ -54,8 +54,8 @@ date: 2022-04-16
 
 ## Skinning
 
-- [Close duplicated] Design new skin roles. [karaoke](#37@andy840119)
+- [outdated] Design new skin roles. [karaoke](#37@andy840119)
 
 ### UX
 
-- [Close duplicated] Language dropdown should show same language as what current language is. [karaoke](#831@andy840119)
+- [outdated] Language dropdown should show same language as what current language is. [karaoke](#831@andy840119)
