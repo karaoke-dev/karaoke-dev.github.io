@@ -37,7 +37,8 @@ This article is written for internal use, just for convenience.
 - Youtube : Any video upload in youtube.
 
 ## Badge
-- [outdated] : Old issue, not implemented or fixed in the current milestone.
+- [outdated] : Issue already implemented.
+- [rejected] : This ticket mark as not implemented.
 
 ## Example link
 
